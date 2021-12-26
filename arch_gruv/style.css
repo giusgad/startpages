@@ -86,7 +86,7 @@ a {
     text-decoration: none;
     font-size: 1.8vh;
     line-height: 1.9;
-    transition: 0.2s;
+    transition: 0.4s;
 }
 
 a.first:hover {
